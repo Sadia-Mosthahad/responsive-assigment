@@ -1,0 +1,29 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-color{
+    background-color: #FFF9F4;
+}
+.h1-darkorang{
+    color:#FA804C ;
+}
+.h1-blue{
+    color: #363958;
+}
+.btn{
+    background-color: #3D4FF3;
+}
+h2{
+    color: #FA804C;
+}
+h3, h5{
+    color: #363958;
+}
+.shoes-card-footer{
+    background-color: white;
+    border: 0;
+}
+.card-shoes{
+    border: 0;
+}
